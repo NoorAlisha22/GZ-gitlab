@@ -43,8 +43,8 @@ This is a customizable Print-On-Demand (POD) T-shirt store built as a **React Si
 ### Installation
 
 ```bash
-git clone https://github.com/NoorAlisha22/sample.git
-cd sample
+git clone https://github.com/NoorAlisha22/GZ-gitlab.git
+cd pod-tshirt-store
 npm install
 npm run dev
 ```
