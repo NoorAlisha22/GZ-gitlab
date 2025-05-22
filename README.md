@@ -92,7 +92,7 @@ Visit http://localhost:5173 in your browser.
 1.Push your project to GitHub or GitLab.
 2.Go to Cloudflare Pages, and connect your repository.
 3.Set build settings:
-   -Framework preset: None
+   -Framework preset: React(Vite)
    -Build command: npm run build
    -Output directory: dist
 4.Deploy.
